@@ -1,0 +1,12 @@
+m=int(input("enter the value of m:"))
+n=int(input("enter the value of n:"))
+a=m+n
+print("a=",a)      
+p=float(input("enter the value of p:"))
+q=float(input("enter the value of q:"))
+r=p+q
+print("r=",r)     
+a=str(input("enter the value of a:"))
+b=str(input("enter the value of b:"))
+c=a+b
+print("c=",c)
